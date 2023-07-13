@@ -20,8 +20,7 @@ function display(){
     v.textContent=input1;
     div.appendChild(c);
     div.appendChild(v);
-    d.appendChild(div);
-    
+    d.appendChild(div);  
 }
 function display2(){
     var deletee=document.querySelectorAll('[type="checkbox"]:checked');
