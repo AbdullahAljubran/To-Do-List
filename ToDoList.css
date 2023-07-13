@@ -7,7 +7,9 @@ max-width:600px;
 background-color:#173F5F;
 height:770px;
 padding:20px;
-border:black 2px solid;}
+border:black 2px solid;
+border-radius: 10px;
+}
 
 #box1 {
 max-width:590px;

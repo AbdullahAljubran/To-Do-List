@@ -2,7 +2,6 @@ var input1;
 var del
 document.getElementById("b1").onclick=function(){
     input1=document.getElementById("te1").value;
-     
 }
 function start(){
 var b1=document.getElementById("b1");
