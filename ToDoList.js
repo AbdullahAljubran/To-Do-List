@@ -23,7 +23,6 @@ function display(){
     d.appendChild(div);
     
 }
-
 function display2(){
     var deletee=document.querySelectorAll('[type="checkbox"]:checked');
     Array.from(deletee).forEach(Element =>
