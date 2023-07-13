@@ -29,4 +29,5 @@ function display2(){
     Array.from(deletee).forEach(Element =>
     Element.parentNode.remove()
     );
+    
 }
